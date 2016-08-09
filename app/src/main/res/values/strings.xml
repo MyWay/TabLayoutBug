@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TabLayoutBug</string>
+    <string name="close">Close</string>
+</resources>
