@@ -9,9 +9,6 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
-/**
- * Created by anyway on 09/08/16.
- */
 public class MyFragment extends Fragment {
     private static final String KEY_TITLE = "title";
     private TextView mTextView;
